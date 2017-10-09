@@ -12,6 +12,11 @@ h1 {
   font-size: 70px;
 }
 
+h2 {
+  color: gray;
+  font-size: 32px;
+}
+
 .nav a {
   color: white;
   font-size: 18px;
